@@ -28,4 +28,4 @@
 [![](https://img.shields.io/badge/-Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ilhnsevval@gmail.com)](mailto:wasjaip@mail.ru)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wasjaip)
 
-![Şevval İLHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhansevval&theme=nightowl&show_icons=true)
+![wasja's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasjaip&theme=nightowl&show_icons=true)
