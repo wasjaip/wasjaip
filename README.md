@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Wasja
 ### DS
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhansevval" alt="ilhansevval" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasjaip" alt="wasjaip" /> </p>
 
 - 💻 I'm working on as an Artificial Intelligence Developer
 
