@@ -6,7 +6,7 @@
 - 💻 I'm working on as an DS 
 
 - 👨‍💻 I've graduated from .
-- 📝 I regularly publish articles about AI technologies and digital solutions on my Medium blog, which you can find at   <a href="https://medium.com/@ilhnsevval"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="32" height="20" alt="medium logo"  /></a> 
+- 📝 I regularly publish articles about AI technologies and digital solutions on my Medium blog, which you can find at   <a href="https://medium.com/@wasjaip"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="32" height="20" alt="medium logo"  /></a> 
 
 - 💬 Ask me about  Python, Data Science, Machine Learning, Deep Learning,Computer Vision, Image Processing, Natural Language Processing.
 
