@@ -45,7 +45,7 @@
 
 **AI Engineering · Local LLM · Tool Use · Automation**
 
-Локальный ИИ-агент на Qwen/Ollama для работы с файлами, проектной информацией и Jira. Agent Core маршрутизирует запросы к инструментам, разделяет операции чтения и изменения и журналирует действия без раскрытия секретов.
+Отдельный проект локального ИИ-агента на Qwen/Ollama для работы с файлами, проектной информацией и Jira. Agent Core маршрутизирует запросы к инструментам, разделяет операции чтения и изменения и журналирует действия без раскрытия секретов.
 
 `Python` · `FastAPI` · `Qwen` · `Ollama` · `REST API` · `Jira API` · `Local LLM`
 
@@ -53,15 +53,15 @@
 
 ---
 
-### 🚴 [Персональный AI Cycling Coach](PROJECT_PERSONAL_TRAINER.md)
+### 🚴 [Персональный Cycling Coach](PROJECT_PERSONAL_TRAINER.md)
 
-**Sports Analytics · Machine Learning · Training Planning · Local AI**
+**Sports Analytics · Machine Learning · Training Planning · Web Application**
 
-Локальный персональный велотренер: CTL/ATL/TSB, Readiness, FTP и W/кг, персональный ансамбль CatBoost по **41 признаку**, оценка **22 вариантов тренировок** и beam search для связного 7‑дневного микроцикла. Локальный Qwen/Ollama объясняет уже рассчитанный план и отвечает на вопросы по тренировочным данным.
+Отдельная вело-программа: CTL/ATL/TSB, Readiness, FTP и W/кг, персональный ансамбль CatBoost по **41 признаку**, оценка **22 вариантов тренировок** и beam search для связного 7‑дневного микроцикла.
 
-`Python` · `Flask` · `CatBoost` · `openpyxl` · `Beam Search` · `Ollama` · `Qwen`
+`Python` · `Flask` · `CatBoost` · `openpyxl` · `JavaScript` · `Beam Search`
 
-➡️ **[AI/ML архитектура, планировщик и логика тренера](PROJECT_PERSONAL_TRAINER.md)**
+➡️ **[Архитектура, спортивная аналитика и планировщик](PROJECT_PERSONAL_TRAINER.md)**
 
 ---
 
