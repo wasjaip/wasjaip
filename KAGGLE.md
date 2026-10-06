@@ -2,21 +2,25 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/wasjaip"><img src="https://img.shields.io/badge/Kaggle-Competitions%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Competitions Expert"></a>
+  <img src="https://img.shields.io/badge/Team%20Gold-🥇-FFD700?style=for-the-badge" alt="Team Gold">
+  <img src="https://img.shields.io/badge/Team%20Silver-🥈-C0C0C0?style=for-the-badge" alt="Team Silver">
   <img src="https://img.shields.io/badge/Competition%20Rank-1%2C432%20%2F%20212%2C363-20BEFF?style=for-the-badge" alt="Competition rank">
-  <img src="https://img.shields.io/badge/Competitions-35-555555?style=for-the-badge" alt="35 competitions">
-  <img src="https://img.shields.io/badge/Code-20%20notebooks-555555?style=for-the-badge" alt="20 notebooks">
 </p>
 
 ## Главное
 
 | Достижение | Результат | Ссылка |
 | --- | ---: | --- |
+| 🥇 Командное золото | **Gold — Kaggle Competition** | [Профиль Kaggle](https://www.kaggle.com/wasjaip) |
+| 🥈 Командное серебро | **Silver — Kaggle Competition** | [Профиль Kaggle](https://www.kaggle.com/wasjaip) |
 | 🏅 Kaggle competition tier | **Competitions Expert** | [Профиль Kaggle](https://www.kaggle.com/wasjaip) |
 | 📈 Competition ranking | **1,432 / 212,363** | [Профиль Kaggle](https://www.kaggle.com/wasjaip) |
 | 🧪 Участие в соревнованиях | **35 competitions** | [Профиль Kaggle](https://www.kaggle.com/wasjaip) |
 | 📓 Публичный код | **20 notebooks** | [Kaggle Code](https://www.kaggle.com/wasjaip/code) |
 | 🗂️ Опубликованные данные | **8 datasets** | [Kaggle Datasets](https://www.kaggle.com/wasjaip/datasets) |
 | 📝 Solution writeups | **1 writeup** | [Kaggle](https://www.kaggle.com/wasjaip) |
+
+> Золото и серебро указаны как **командные результаты**. Названия конкретных соревнований добавлю отдельно после точного сопоставления с историей Kaggle, чтобы не приписывать награду не тому competition.
 
 ## 🥉 Медали Code
 
@@ -67,7 +71,7 @@
 
 ➡️ **[kaggle_notebooks-Public](https://github.com/wasjaip/kaggle_notebooks-Public)**
 
-Для него настроена автоматическая синхронизация через официальный Kaggle CLI. После подключения `KAGGLE_API_TOKEN` GitHub Actions будет подтягивать исходники notebooks и их metadata, а полный каталог будет формироваться в [`KAGGLE_INDEX.md`](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/KAGGLE_INDEX.md).
+Для него настроена автоматическая синхронизация через официальный Kaggle CLI. После подключения `KAGGLE_API_TOKEN` GitHub Actions подтягивает исходники notebooks и их metadata, а полный каталог формируется в [`KAGGLE_INDEX.md`](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/KAGGLE_INDEX.md).
 
 ---
 
