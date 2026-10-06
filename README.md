@@ -25,6 +25,12 @@
 ### [Yandex_geo](https://github.com/wasjaip/Yandex_geo)
 Нормализация географических названий и поиск похожих объектов на основе GeoNames, PostgreSQL и методов семантического поиска.
 
+### [Enefit — Predict Energy Behavior of Prosumers](https://github.com/wasjaip/Enefit---Predict-Energy-Behavior-of-Prosumers)
+Прогнозирование производства и потребления энергии: ансамбли LightGBM, временные лаги, регулярное переобучение и GPU-ускорение.
+
+### [PII Data Detection](https://github.com/wasjaip/The-Learning-Agency-Lab---PII-Data-Detection)
+Обнаружение персональных данных в тексте: ансамбль transformer-моделей, token classification и постобработка предсказаний.
+
 ### [Hackathon_Yandex_muz](https://github.com/wasjaip/Hackathon_Yandex_muz)
 Командный ML-проект для поиска и группировки каверов музыкальных треков с использованием NLP и методов оценки схожести.
 
