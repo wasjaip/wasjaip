@@ -4,6 +4,26 @@
 
 Я занимаюсь разработкой потоков данных, интеграций, аналитических сервисов и прикладных ML-решений. Основной стек — Python, SQL, PostgreSQL, Kafka, Airflow, Docker, PySpark и pandas.
 
+<p>
+  <a href="https://www.kaggle.com/wasjaip"><img src="https://img.shields.io/badge/Kaggle-Competitions%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Competitions Expert"></a>
+  <img src="https://img.shields.io/badge/Rank-1%2C432%20%2F%20212%2C363-20BEFF?style=for-the-badge" alt="Kaggle rank">
+  <img src="https://img.shields.io/badge/Competitions-35-555555?style=for-the-badge" alt="35 competitions">
+  <img src="https://img.shields.io/badge/Code%20Medal-Bronze-CD7F32?style=for-the-badge" alt="Bronze code medal">
+</p>
+
+## 🏆 Kaggle highlights
+
+| | Достижение |
+| --- | --- |
+| 🏅 | **Competitions Expert** |
+| 📈 | **1,432 / 212,363** в Competition Ranking |
+| 🥉 | **Bronze Code Medal** — `detection_use_gpus` |
+| 🧪 | **35** соревнований |
+| 📓 | **20** публичных notebooks |
+| 🗂️ | **8** datasets · **1** solution writeup |
+
+➡️ **[Все Kaggle достижения и лучшие решения на одной странице](KAGGLE.md)**
+
 ## Основной стек
 
 `Python` · `SQL` · `PostgreSQL` · `MS SQL` · `Kafka` · `Airflow` · `Docker` · `PySpark` · `pandas` · `scikit-learn` · `Dash` · `Git`
@@ -37,15 +57,13 @@
 ### [ChA_data_wagon](https://github.com/wasjaip/ChA_data_wagon)
 Прогнозирование отправки железнодорожных вагонов в ремонт. Классификация, подбор признаков и оптимизация порога решения.
 
-## Kaggle
-
-**Competitions Expert**. В Kaggle-профиле собраны решения по time series, NLP, computer vision, tabular ML и GPU-экспериментам.
+## Kaggle → GitHub
 
 - [Kaggle profile](https://www.kaggle.com/wasjaip)
 - [Kaggle notebooks в GitHub](https://github.com/wasjaip/kaggle_notebooks-Public)
-- [Каталог Kaggle-решений](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/KAGGLE_INDEX.md)
+- [Полный каталог решений](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/KAGGLE_INDEX.md)
 
-Репозиторий `kaggle_notebooks-Public` настроен на автоматическую синхронизацию публичных Kaggle notebooks через официальный Kaggle CLI.
+`kaggle_notebooks-Public` настроен на автоматическую синхронизацию публичных Kaggle notebooks через официальный Kaggle CLI.
 
 ## Контакты
 
