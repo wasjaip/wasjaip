@@ -39,25 +39,52 @@
 - занимаюсь Data Science и прикладным Machine Learning;
 - участвую в соревнованиях и хакатонах по анализу данных.
 
-## Избранные проекты
+## 🚀 Избранные проекты
 
-### [BigData_pySPARK](https://github.com/wasjaip/BigData_pySPARK)
-Прогнозирование спроса на такси по более чем 10 млн поездок. PySpark, локальный Spark-кластер в Docker, ML и обработка больших данных.
-
-### [Yandex_geo](https://github.com/wasjaip/Yandex_geo)
-Нормализация географических названий и поиск похожих объектов на основе GeoNames, PostgreSQL и методов семантического поиска.
-
-### [Enefit — Predict Energy Behavior of Prosumers](https://github.com/wasjaip/Enefit---Predict-Energy-Behavior-of-Prosumers)
-Прогнозирование производства и потребления энергии: ансамбли LightGBM, временные лаги, регулярное переобучение и GPU-ускорение.
-
-### [PII Data Detection](https://github.com/wasjaip/The-Learning-Agency-Lab---PII-Data-Detection)
-Обнаружение персональных данных в тексте: ансамбль transformer-моделей, token classification и постобработка предсказаний.
-
-### [Hackathon_Yandex_muz](https://github.com/wasjaip/Hackathon_Yandex_muz)
-Командный ML-проект для поиска и группировки каверов музыкальных треков с использованием NLP и методов оценки схожести.
-
-### [ChA_data_wagon](https://github.com/wasjaip/ChA_data_wagon)
-Прогнозирование отправки железнодорожных вагонов в ремонт. Классификация, подбор признаков и оптимизация порога решения.
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3>⚡ <a href="https://github.com/wasjaip/BigData_pySPARK">BigData PySpark</a></h3>
+  <b>Big Data · Distributed ML</b><br><br>
+  Прогнозирование спроса на такси по более чем <b>10 млн поездок</b>. Локальный Spark-кластер в Docker и распределённая обработка данных.<br><br>
+  <code>PySpark</code> <code>Docker</code> <code>ML</code> <code>Big Data</code>
+</td>
+<td width="50%" valign="top">
+  <h3>🌍 <a href="https://github.com/wasjaip/Yandex_geo">Yandex Geo</a></h3>
+  <b>NLP · Data Engineering</b><br><br>
+  Нормализация географических названий и поиск похожих объектов по GeoNames с использованием PostgreSQL и semantic search.<br><br>
+  <code>Python</code> <code>PostgreSQL</code> <code>GeoNames</code> <code>Embeddings</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3>⚙️ <a href="https://github.com/wasjaip/Enefit---Predict-Energy-Behavior-of-Prosumers">Enefit Energy Forecasting</a></h3>
+  <b>Time Series · Kaggle</b><br><br>
+  Прогнозирование производства и потребления энергии: ансамбли LightGBM, временные лаги, регулярное переобучение и GPU-ускорение.<br><br>
+  <code>LightGBM</code> <code>Time Series</code> <code>GPU</code> <code>Ensemble</code>
+</td>
+<td width="50%" valign="top">
+  <h3>🔐 <a href="https://github.com/wasjaip/The-Learning-Agency-Lab---PII-Data-Detection">PII Data Detection</a></h3>
+  <b>NLP · Transformers</b><br><br>
+  Обнаружение персональных данных в тексте: ансамбль transformer-моделей, token classification и постобработка предсказаний.<br><br>
+  <code>DeBERTa</code> <code>Transformers</code> <code>NLP</code> <code>Token Classification</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3>🎵 <a href="https://github.com/wasjaip/Hackathon_Yandex_muz">Yandex Music Hackathon</a></h3>
+  <b>Team ML · Similarity Search</b><br><br>
+  Командный проект для поиска и группировки каверов музыкальных треков с использованием ML и методов оценки схожести.<br><br>
+  <code>Python</code> <code>ML</code> <code>NLP</code> <code>Similarity</code>
+</td>
+<td width="50%" valign="top">
+  <h3>🚆 <a href="https://github.com/wasjaip/ChA_data_wagon">DataWagon</a></h3>
+  <b>Tabular ML · Classification</b><br><br>
+  Прогнозирование отправки железнодорожных вагонов в ремонт: feature engineering, классификация и оптимизация порога решения.<br><br>
+  <code>Python</code> <code>CatBoost</code> <code>Feature Engineering</code> <code>F1</code>
+</td>
+</tr>
+</table>
 
 ## Kaggle → GitHub
 
