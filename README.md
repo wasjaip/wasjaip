@@ -53,15 +53,15 @@
 
 ---
 
-### 🎯 [Персональный тренер ЕГЭ‑2027](PROJECT_PERSONAL_TRAINER.md)
+### 🚴 [Персональный AI Cycling Coach](PROJECT_PERSONAL_TRAINER.md)
 
-**EdTech · Personalization · Analytics · Web Application**
+**Sports Analytics · Machine Learning · Training Planning · Local AI**
 
-Персональная система подготовки с кабинетами учителя и ученика, индивидуальным назначением тестов и материалов, календарём, анализом ошибок, показателями готовности и отдельной логикой полноформатных вариантов.
+Локальный персональный велотренер: CTL/ATL/TSB, Readiness, FTP и W/кг, персональный ансамбль CatBoost по **41 признаку**, оценка **22 вариантов тренировок** и beam search для связного 7‑дневного микроцикла. Локальный Qwen/Ollama объясняет уже рассчитанный план и отвечает на вопросы по тренировочным данным.
 
-`Python` · `FastAPI` · `PostgreSQL` · `JavaScript` · `REST API` · `Analytics`
+`Python` · `Flask` · `CatBoost` · `openpyxl` · `Beam Search` · `Ollama` · `Qwen`
 
-➡️ **[Продуктовая логика, архитектура и моя роль](PROJECT_PERSONAL_TRAINER.md)**
+➡️ **[AI/ML архитектура, планировщик и логика тренера](PROJECT_PERSONAL_TRAINER.md)**
 
 ---
 
