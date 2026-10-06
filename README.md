@@ -37,9 +37,15 @@
 ### [ChA_data_wagon](https://github.com/wasjaip/ChA_data_wagon)
 Прогнозирование отправки железнодорожных вагонов в ремонт. Классификация, подбор признаков и оптимизация порога решения.
 
-## Data Science
+## Kaggle
 
-Также в профиле есть проекты по временным рядам, NLP, финансовым данным и соревнованиям Kaggle.
+**Competitions Expert**. В Kaggle-профиле собраны решения по time series, NLP, computer vision, tabular ML и GPU-экспериментам.
+
+- [Kaggle profile](https://www.kaggle.com/wasjaip)
+- [Kaggle notebooks в GitHub](https://github.com/wasjaip/kaggle_notebooks-Public)
+- [Каталог Kaggle-решений](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/KAGGLE_INDEX.md)
+
+Репозиторий `kaggle_notebooks-Public` настроен на автоматическую синхронизацию публичных Kaggle notebooks через официальный Kaggle CLI.
 
 ## Контакты
 
