@@ -6,15 +6,17 @@
 
 <p>
   <a href="https://www.kaggle.com/wasjaip"><img src="https://img.shields.io/badge/Kaggle-Competitions%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Competitions Expert"></a>
+  <img src="https://img.shields.io/badge/Team%20Gold-🥇-FFD700?style=for-the-badge" alt="Team Gold">
+  <img src="https://img.shields.io/badge/Team%20Silver-🥈-C0C0C0?style=for-the-badge" alt="Team Silver">
   <img src="https://img.shields.io/badge/Rank-1%2C432%20%2F%20212%2C363-20BEFF?style=for-the-badge" alt="Kaggle rank">
-  <img src="https://img.shields.io/badge/Competitions-35-555555?style=for-the-badge" alt="35 competitions">
-  <img src="https://img.shields.io/badge/Code%20Medal-Bronze-CD7F32?style=for-the-badge" alt="Bronze code medal">
 </p>
 
 ## 🏆 Kaggle highlights
 
 | | Достижение |
 | --- | --- |
+| 🥇 | **Командное золото** в Kaggle Competition |
+| 🥈 | **Командное серебро** в Kaggle Competition |
 | 🏅 | **Competitions Expert** |
 | 📈 | **1,432 / 212,363** в Competition Ranking |
 | 🥉 | **Bronze Code Medal** — `detection_use_gpus` |
