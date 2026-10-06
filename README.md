@@ -41,6 +41,30 @@
 
 ## 🚀 Избранные проекты
 
+### 🤖 [Локальный AI Agent](PROJECT_AI_AGENT.md)
+
+**AI Engineering · Local LLM · Tool Use · Automation**
+
+Локальный ИИ-агент на Qwen/Ollama для работы с файлами, проектной информацией и Jira. Agent Core маршрутизирует запросы к инструментам, разделяет операции чтения и изменения и журналирует действия без раскрытия секретов.
+
+`Python` · `FastAPI` · `Qwen` · `Ollama` · `REST API` · `Jira API` · `Local LLM`
+
+➡️ **[Архитектура и возможности агента](PROJECT_AI_AGENT.md)**
+
+---
+
+### 🎯 [Персональный тренер ЕГЭ‑2027](PROJECT_PERSONAL_TRAINER.md)
+
+**EdTech · Personalization · Analytics · Web Application**
+
+Персональная система подготовки с кабинетами учителя и ученика, индивидуальным назначением тестов и материалов, календарём, анализом ошибок, показателями готовности и отдельной логикой полноформатных вариантов.
+
+`Python` · `FastAPI` · `PostgreSQL` · `JavaScript` · `REST API` · `Analytics`
+
+➡️ **[Продуктовая логика, архитектура и моя роль](PROJECT_PERSONAL_TRAINER.md)**
+
+---
+
 <table>
 <tr>
 <td colspan="2" valign="top">
