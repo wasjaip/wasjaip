@@ -43,6 +43,15 @@
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+  <h3>💼 <a href="PROJECT_PRICING.md">ЦО / Pricing Platform</a></h3>
+  <b>Production · Data Engineering · Pricing · Integration</b><br><br>
+  Production-система для расчёта и управления ценами: ETL/ELT, бизнес-логика ценообразования, региональные сценарии, аналитический интерфейс и интеграции с внешними системами. Исходный код и внутренние данные не публикуются.<br><br>
+  <code>Python</code> <code>PostgreSQL</code> <code>MS SQL</code> <code>Dash</code> <code>Kafka</code> <code>Airflow</code> <code>Docker</code> <code>NiFi</code> <code>REST</code>
+  <br><br>➡️ <b><a href="PROJECT_PRICING.md">Архитектура, задачи и моя зона ответственности</a></b>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h3>⚡ <a href="https://github.com/wasjaip/BigData_pySPARK">BigData PySpark</a></h3>
   <b>Big Data · Distributed ML</b><br><br>
